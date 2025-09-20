@@ -7,6 +7,8 @@ An interactive Excel dashboard analyzing the sales performance of Ferns and Peta
 - Average Customer Spend: ₹3,520  
 - Revenue Breakdown by Occasion, Category, Month, City, and Top Products  
 
+[Checkout my work here](Excel FNP Sales Dashboard.xlsx)
+
 ![Sales Analysis Dashboard](https://github.com/harshr81/Ferns-and-Petals-Sales-Analysis-Dashboard/blob/main/Excel%20FNP%20Sales%20Dashboard.xlsx)
 
 ## Tools Used:
